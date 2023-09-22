@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6434de4d94199a4b8b22ef4e30ecc15, type: 3}
+  m_Name: The Only Thing They Fear Is You
+  m_EditorClassIdentifier: 
+  trackAudioClip: {fileID: 8300000, guid: d75aba8c35191fe4bbe035e9973b3d7d, type: 3}
+  artist: Mick Gordon
+  image: {fileID: 21300000, guid: 70044e4b96b673245a6c149de9707463, type: 3}

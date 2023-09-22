@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d12bb1aa1cb26a4db5bd488b2496e95, type: 3}
+  m_Name: Town
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: c9986bdb26d6a03489472f7981c3be21, type: 3}
+  sceneName: Town
+  skybox: {fileID: 2100000, guid: 12abc5f768c36ee45a4c1e7a3e613fdc, type: 2}
+  profile: {fileID: 11400000, guid: a1b54c10b3c5a1344a24d5f9b3066873, type: 2}
